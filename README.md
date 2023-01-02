@@ -1,5 +1,5 @@
-<h2 align="center">Fractal star</h2>
-Fractal star implimented in pure C
+<h1 align="center"> Fractal star </h1>
+<h2 align="cneter"> Fractal star implimented in pure C </h2>
 
 ### Pre-requirements
   Compiler: <a href="https://gcc.gnu.org/"><b>gcc</b></a> <br>
