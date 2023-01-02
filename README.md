@@ -1,4 +1,6 @@
-# Fractal star
+<center>
+Fractal star
+</center>
 Fractal Star implimented in pure C
 
 ### Pre-requirements
