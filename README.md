@@ -1,4 +1,4 @@
-<h2 style="text-align:center;">Fractal star</h2>
+<h2 align="center">Fractal star</h2>
 Fractal star implimented in pure C
 
 ### Pre-requirements
